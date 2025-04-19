@@ -1568,7 +1568,7 @@
         <mxCell id="FVfkOl4kycRLVrzS8iKf-20" value="テーブルE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FVfkOl4kycRLVrzS8iKf-16">
           <mxGeometry x="200" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVfkOl4kycRLVrzS8iKf-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FVfkOl4kycRLVrzS8iKf-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;container=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="810" width="650" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FVfkOl4kycRLVrzS8iKf-23" value="高テーE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
